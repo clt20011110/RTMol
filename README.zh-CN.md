@@ -3,7 +3,7 @@
 # RTMol: Rethinking Molecule-text Alignment in a Round-trip View
 
 [![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)]()
-[![arXiv](https://img.shields.io/badge/arXiv-2511.12135-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2511.12135-b31b1b.svg)](https://arxiv.org/abs/2511.12135)
 
 **附录**：[附录](assets/Appendix.pdf)
 
